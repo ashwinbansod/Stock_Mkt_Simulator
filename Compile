@@ -1,0 +1,1 @@
+g++ -o StockMkt main.h DBConnection.h main.cpp DBConnection.cpp  -I /home/ashwin/StockMkt -L/usr/lib -lmysqlcppconn
